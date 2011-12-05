@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/42/trunk
+END
+twitcurl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/31/trunk/twitcurl.vcproj
+END
+SHA1.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/10/trunk/SHA1.h
+END
+oauthlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/29/trunk/oauthlib.cpp
+END
+oauthlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/22/trunk/oauthlib.h
+END
+twitcurl.plg
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/16/trunk/twitcurl.plg
+END
+twitcurl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/40/trunk/twitcurl.cpp
+END
+urlencode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/urlencode.cpp
+END
+twitcurl.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/twitcurl.dsp
+END
+twitcurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/40/trunk/twitcurl.h
+END
+HMAC_SHA1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32/trunk/HMAC_SHA1.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/base64.cpp
+END
+urlencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/urlencode.h
+END
+twitcurl.sln
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/31/trunk/twitcurl.sln
+END
+twitcurl.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/twitcurl.dsw
+END
+HMAC_SHA1.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/HMAC_SHA1.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/base64.h
+END
+SHA1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/SHA1.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/18/trunk/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/42/trunk/Makefile
+END
+twitcurl.opt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/16/trunk/twitcurl.opt
+END
+twitcurl.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/16/trunk/twitcurl.ncb
+END

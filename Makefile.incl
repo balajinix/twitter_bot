@@ -1,0 +1,10 @@
+CXX = g++
+CXXFLAGS = -Wextra -g -Wno-deprecated #-pg
+#CXXFLAGS = -O3
+DEBUG_LEVEL=0
+
+HOME_DIR = /home/balaji/balajinix/code/twitter_bot
+
+LINK_DIR = -L${HOME_DIR}/lib
+LIB_DIR = ${HOME_DIR}/lib
+BIN_DIR = ${HOME_DIR}/bin
