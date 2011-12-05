@@ -1,0 +1,9 @@
+CAUTION!
+
+I wrote this bot to study how twitter bots work. Twitter has a number of terms and conditions and this bot should be run without violating any of them. Please read the rules in the following url before trying out this bot.
+
+http://support.twitter.com/articles/18311-the-twitter-rules
+
+
+1. change the home directory in Makefile.incl
+2. make clean ; make
